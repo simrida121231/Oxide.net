@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%), url(414918b67a1d478d9aa84d2e340a8a07.png);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+
+.logo{
+    color: white;
+    font-size: 35px;
+    padding-left: 25px;
+    font-family: Arial;
+}
+
+.Oxide-download{
+    color: white;
+    font-size: 35px;
+    padding-left: 790px;
+    font-family: Arial;
+}
+
+.download{
+    border: none;
+    background-color: #FF1344;
+    color: white;
+    height: 45px;
+    width: 110px;
+    border-radius: 10px;
+    margin-left: 85px;
+    cursor: pointer;
+}
+
+.imgdownpng{
+    padding-left: 650px;
+}
+
+.dis{
+    border: none;
+    background-color: #FF1344;
+    color: white;
+    height: 45px;
+    width: 110px;
+    border-radius: 10px;
+    margin-left: 1600px;
+    cursor: pointer;
+}
+
+.text1{
+    color: white;
+    margin-left: 649px;
+    font-size: 35px;
+    font-family: Arial;
+}
+
+.proj{
+    color: white;
+    margin-left: 670px;
+    font-size: 35px;
+    font-family: Arial;
+}
